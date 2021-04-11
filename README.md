@@ -10,7 +10,7 @@ São scripts de automação de testes do site parodify usando o framework de tes
 
 3. Faça a instalação do Python e adicione-o às variáveis de ambiente "PATH"
 
-4. Na pasta raiz do projeto, usando o Console/Prompt de Comando execute o seguinte código "pip install requirements.txt"
+4. Na pasta raiz do projeto, usando o Console/Prompt de Comando execute o seguinte código "pip install -r requirements.txt"
 
 5. Ainda usando o Console/Prompt de Comando execute o seguinte código "rfbrowser init"
 
