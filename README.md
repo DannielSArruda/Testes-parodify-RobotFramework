@@ -12,4 +12,6 @@ São scripts de automação de testes do site parodify usando o framework de tes
 
 4. Na pasta raiz do projeto, usando o Console/Prompt de Comando execute o seguinte código "pip install requirements.txt"
 
+5. Ainda usando o Console/Prompt de Comando execute o seguinte código "rfbrowser init"
+
 5. Após a instalação das dependências do passo 3, abra outro Console/Prompt de Comando na raiz do projeto e execute o seguindo código "robot tests"
